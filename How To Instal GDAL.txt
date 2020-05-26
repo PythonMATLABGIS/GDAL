@@ -1,0 +1,10 @@
+Step 1: install your python
+
+go to python.org install a python version (for example 3.7)
+
+Step 2: Install GDAL Commmand lines
+
+Step 3: Install GDAL python bindings
+
+
+
